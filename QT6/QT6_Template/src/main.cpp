@@ -5,7 +5,7 @@ using std::cout;
 
 int main(int argc,char **argv) 
 {
-    qt6_test();
+    qt6_test(argc,argv);
     cout << "666!" << std::endl;
     
     std::cout << "Press Enter to continue...";

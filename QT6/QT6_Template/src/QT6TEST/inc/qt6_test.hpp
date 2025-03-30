@@ -1,6 +1,6 @@
 #ifndef __EIGEN3_TEST_HPP_
 #define __EIGEN3_TEST_HPP_
 
-void qt6_test(void);
+int qt6_test(int argc,char **argv);
 
 #endif
